@@ -1,7 +1,7 @@
 # easy-reconize-hand-write-number
-簡單辨識手寫數字-重傳:
+Simple handwriting numbers genarate:
 <br>
-<br>利用Tensorflow 製作簡易的影像辨識
-<br>比較使用正規化與Dropout精確度上的差異性。
+<br>Simple GAN method to ganerate handwriting numbers with tensorflow
+<br>Compare the accuracy of droup out method and regularization method in neural network
 
 <br>所有程式的解讀寫在(手寫數字辨識by DNN.docx)裡面，可以從裡面下載學習。
